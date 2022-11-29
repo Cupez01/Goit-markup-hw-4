@@ -110,7 +110,7 @@ color:#2196F3 ;
 #banner{
     width: 1600px;
     height: 600px;
-    background: url("../images/banner.jpg");
+    background: url("images/banner.jpg");
     background-blend-mode: overlay;
 }
 .icons-pr{
